@@ -1,5 +1,7 @@
 ## [To Todo-List](https://todoprabhat.netlify.app/)
 
+Click on "your name" to change it if you want.
+
 ## Available Scripts
 
 In the project directory, you can run:
