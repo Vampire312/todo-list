@@ -2,8 +2,6 @@
 
 Click on "your name" to change it if you want.
 
-![image](https://user-images.githubusercontent.com/83898334/215242008-2458fc9a-8494-46b8-9fd7-9b566808eee7.png)
-
 ## Available Scripts
 
 In the project directory, you can run:
